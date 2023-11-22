@@ -1,9 +1,11 @@
 /* CSS styles */
+
+body {background: linear-gradient(#004400,#440000,#000044,#442200,#FFF,#000)}
 h1 {
 font-family: Impact, sans-serif;
 color: #CE5937;
 }
-
+div {margin-bottom:50px}
 .perso a {background: linear-gradient(#000000,#00BB00);
 border-radius:20px
 }
