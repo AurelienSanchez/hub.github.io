@@ -1,6 +1,9 @@
 /* CSS styles */
 
-body {background: linear-gradient(#3399FF,#33FFFF,#33FF99)}
+body {background: linear-gradient(#3399FF,#33FFFF,#33FF99);
+     background-attachment: fixed;
+      background-size:cover;
+     }
 h1 {
 font-family: Impact, sans-serif;
  font-weight:bold;
